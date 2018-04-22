@@ -1,0 +1,6 @@
+['Current Status:issued', 'Plansets:0', 'Proposed Construction Type Description:wood frame (5)', 'Street Suffix:St'] (392) -> ['Permit Type Definition:otc alterations permit'] (9040) [0.92][0.66]
+['Existing Construction Type Description:wood frame (5)', 'Existing Use:apartments', 'Number of Existing Stories:4', 'Proposed Use:apartments'] (305) -> ['Number of Proposed Stories:4'] (729) [1.0][1.0]
+['Existing Construction Type Description:wood frame (5)', 'Existing Use:apartments', 'Number of Proposed Stories:4', 'Proposed Use:apartments'] (305) -> ['Number of Existing Stories:4'] (698) [0.75][0.55]
+['Current Status:complete', 'Existing Construction Type Description:wood frame (5)', 'Existing Units:1', 'Number of Existing Stories:2', 'Number of Proposed Stories:2', 'Street Suffix:Av'] (516) -> ['Proposed Construction Type Description:wood frame (5)'] (5635) [0.78][0.55]
+['Current Status:complete', 'Existing Units:1', 'Number of Existing Stories:2', 'Number of Proposed Stories:2', 'Proposed Construction Type Description:wood frame (5)', 'Street Suffix:Av'] (516) -> ['Existing Construction Type Description:wood frame (5)'] (5635) [0.56][0.63]
+['Current Status:complete', 'Existing Units:2', 'Existing Use:2 family dwelling', 'Plansets:0', 'Proposed Use:2 family dwelling'] (473) -> ['Proposed Units:2'] (1205) [0.66][0.45]
